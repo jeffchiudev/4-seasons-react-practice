@@ -14,8 +14,16 @@
   color: blue;
 }
 
+.season-display.spring i {
+  color: green;
+}
+
 .season-display.summer i {
   color: red;
+}
+
+.season-display.fall i {
+  color: orange;
 }
 
 .season-display {
@@ -29,6 +37,14 @@
   background-color: aliceblue;
 }
 
+.spring {
+  background-color: hotpink;
+}
+
 .summer {
   background-color: orange;
+}
+
+.fall {
+  background-color: burlywood;
 }
